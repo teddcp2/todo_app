@@ -29,5 +29,5 @@
 3. imporving the bucket features 
 
 
-Thanks for Reading :smiley: :smiley::smiley:
+Thanks for Reading :smiley::smiley::smiley:
 
