@@ -19,7 +19,7 @@
 
 ### snapshot
 
-<img src="screencapture-todoappteddy-herokuapp-2021-01-08-07_36_42.png" height="60vh" width="40vw" alt="snapshot"/>
+<img src="screencapture-todoappteddy-herokuapp-2021-01-08-07_46_07.png" height="60vh" width="40vw" alt="snapshot"/>
 
 
 
